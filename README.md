@@ -25,8 +25,4 @@ _BYU-Pathway Worldwide improves lives through access to spiritually based, onlin
 
 
 
-<<<<<<< HEAD
 frabjous-sorbet-25d04a.netlify.app
-=======
-frabjous-sorbet-25d04a.netlify.app
->>>>>>> f945698ee540de904d3662fb62eae21a1e3db9ff
